@@ -1,6 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const DB_Url = "mongodb+srv://todoapp:todoapp@cluster0.hkmlae6.mongodb.net/todoapp?retryWrites=true&w=majority&appName=Cluster0";
+const DB_Url = "add your mangoodb url"
 
 
 const TaskRouter = require('./routes/taskRouter');
